@@ -1,6 +1,6 @@
-# TRONxDAFTPUNK MUSIC PLAYER
+# 🎧 TRONxDAFTPUNK MUSIC PLAYER
 
-*View an exclusive look of Daft Punk sountracks made for the Tron Legacy 2010 film through this re-envisioned cyber punk themed music player!*
+*Experience an exclusive selection of Daft Punk soundtracks composed for the 2010 film **Tron: Legacy** with this re-envisioned cyberpunk-themed music player!*  
 Built with **JavaScript**, **CSS**, and **HTML**.
 
 ---
@@ -17,10 +17,11 @@ cd Cyber-Music-player
 code .
 ```
 ### 2. Install Live Server Extension in VS Code
+Make sure to have Live Server extension installed from extensions to view it in real-time
 
+### 🤖 YOU’RE ALL SET
 
-**YOU’RE ALL SET**
-Dive into the world of Tron through their timeless sountracks and score made by the iconic duo Daft Punk
+Dive into the world of Tron through their timeless sountracks and score made by the iconic duo Daft Punk!
 
 
 
